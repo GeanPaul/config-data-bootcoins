@@ -1,7 +1,5 @@
 bootcoins:
   property: BootcoinsRate Profile Dev
-server:
-  port: 8085
 
 spring:
   application:
