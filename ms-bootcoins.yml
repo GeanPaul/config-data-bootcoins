@@ -8,5 +8,5 @@ spring:
     name: ms-bootcoins
   data:
     mongodb:
-      uri:  mongodb+srv://admin:admin@clusterconexion.j8gyv.mongodb.net/?retryWrites=true&w=majority
+      uri: mongodb+srv://admin:admin@clusterconexion.j8gyv.mongodb.net/?retryWrites=true&w=majority 
       database: bootcoins-db
